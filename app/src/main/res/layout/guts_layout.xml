@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_margin="10sp"
-        android:text="Aerodromo"
+        android:text="GUTS"
         android:textAllCaps="true"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -48,7 +48,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Esse cara só apanha a obra inteira" />
+                    android:text="Guts é um personagem fictício criado por Kentaro Miura como o protagonista do mangá de fantasia sombria Berserk e suas subsequentes adaptações.
+                    Ele foi introduzido no primeiro capítulo da obra intitulado Espadachim Negro, a mesma alcunha dada ao personagem.
+                    Guts é um mercenário que luta desde a infância" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
