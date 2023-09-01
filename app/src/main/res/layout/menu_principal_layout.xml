@@ -62,7 +62,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/dragonslayer"
+                    android:src="@drawable/dragonslayer"/>
 
                 <TextView
                     android:layout_width="wrap_content"
